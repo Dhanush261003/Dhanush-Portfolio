@@ -1,3 +1,5 @@
+import { FaChevronDown } from "react-icons/fa";
+
 export default function Hero() {
   const scrollToSection = (id) => {
     document.getElementById(id)?.scrollIntoView({
@@ -36,7 +38,8 @@ export default function Hero() {
         </button>
       </div>
 
-      <div className="scroll">⌄</div>
+      <div className="scroll"><a href="#contact"><FaChevronDown  /></a></div>
+
     </section>
   );
 }

@@ -6,6 +6,7 @@ export default function Navbar() {
 
   return (
     <header className="navbar">
+      
       <div className="logo" >
         <a className="logo-name" href="#">Dhanush S</a>
       </div>

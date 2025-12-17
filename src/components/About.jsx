@@ -34,7 +34,7 @@ export default function About() {
         {/* Right Image */}
         <div className="about-image">
           <img
-            src="public\dhanush_photo.jpg"
+            src="dhanush_photo.jpg"
             alt="Developer"
           />
         </div>

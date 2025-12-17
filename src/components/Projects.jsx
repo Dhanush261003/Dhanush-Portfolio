@@ -15,7 +15,7 @@ export default function Projects() {
           {/* Image */}
           <div className="project-image">
             <img
-              src="public\icon128.png"
+              src="icon128.png"
               alt="Web Developer Toolkit"
             />
           </div>

@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-left">
-          <span className="footer-logo">&lt;&gt;</span> Dhanush
+          <span className="footer-logo"></span> Dhanush S
         </div>
 
         <div className="footer-icons">
