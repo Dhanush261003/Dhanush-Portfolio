@@ -71,6 +71,7 @@ body {
 
 .hero h1 span {
   color: #2563eb;
+  font-weight: 600;
 }
 
 .hero h2 {
@@ -750,3 +751,4 @@ body {
     text-align: center;
   }
 }
+
