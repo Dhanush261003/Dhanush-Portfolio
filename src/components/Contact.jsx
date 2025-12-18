@@ -72,11 +72,11 @@ export default function Contact() {
           <div>
             <h4>LinkedIn</h4>
             <a
-              href="https://www.linkedin.com/in/dhanush-s-386375293/"
+              href="https://www.linkedin.com/in/dhanu-sh/"
               target="_blank"
               rel="noreferrer"
             >
-              linkedin.com/in/dhanush-s-386375293
+              linkedin.com/in/dhanu-sh
             </a>
           </div>
         </div>
@@ -84,3 +84,4 @@ export default function Contact() {
     </section>
   );
 }
+
