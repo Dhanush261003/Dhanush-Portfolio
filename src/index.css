@@ -7,6 +7,10 @@
   font-style: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: #edf3ff;
   color: #0f172a;
@@ -24,6 +28,7 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
   border-bottom: 1px solid #e5e7eb;
 }
 
@@ -35,7 +40,6 @@ body {
 
 .logo .logo-name {
   text-decoration: none;
-  font-weight: 600;
   color: #2563eb;
   margin-right: 6px;
 }
@@ -105,6 +109,7 @@ body {
   border: none;
   font-weight: 500;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .btn-secondary {
@@ -752,4 +757,3 @@ body {
     text-align: center;
   }
 }
-

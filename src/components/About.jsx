@@ -29,6 +29,10 @@ export default function About() {
             collaborating with teams to bring ideas to life. When I'm not
             coding, I explore new web technologies and design trends.
           </p>
+
+          <a href="/Dhanush_S_Resume.pdf" download className="btn-primary">
+            Download CV
+          </a>
         </div>
 
         {/* Right Image */}
