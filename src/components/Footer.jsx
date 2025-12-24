@@ -13,7 +13,7 @@ export default function Footer() {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/dhanush-s-386375293/"
+            href="https://www.linkedin.com/in/dhanu-sh/"
             target="_blank"
             rel="noreferrer"
           >
@@ -31,3 +31,4 @@ export default function Footer() {
     </footer>
   );
 }
+
